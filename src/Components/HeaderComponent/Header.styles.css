@@ -1,0 +1,19 @@
+.headerBlock article {
+	display: flex;
+	background-color: #fff;
+	height: 50px;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 1px 1px 7px 1px #eee;
+}
+.headerBlock article div {
+	flex: 1;
+}
+.logo img {
+	width: 90px;
+	margin-left: -260px;
+}
+.bars {
+	width: 20%;
+	margin-left: 37px;
+}

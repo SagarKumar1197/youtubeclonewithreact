@@ -1,0 +1,26 @@
+.searchBlock {
+	width: 80%;
+}
+#form {
+	margin: 0px;
+	border: 1px solid #ccc;
+	margin-left: -350px;
+}
+.searchInput {
+	display: flex;
+	flex-direction: row;
+}
+form input {
+	width: 87%;
+	border: none;
+}
+button {
+	width: 13%;
+	background-color: #f8f8f8;
+	border-left: 1px solid #d3d3d3;
+	border-right: none;
+	border-top: none;
+	border-bottom: none;
+	width: 60px;
+	margin-left: 20px;
+}
